@@ -16,7 +16,7 @@
         <IconsSearch class="w-8 h-8" />
       </li>
     </ul>
-    <div class="bg-[#111111] basis-[95%] text-[#fff] relative left-[5%]">
+    <div class="bg-[#111111] basis-[95%] text-[#fff] relative left-[4%]">
       <slot />
       <Footer />
     </div>
