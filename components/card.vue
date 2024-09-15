@@ -15,7 +15,7 @@
     <div class="flex items-center gap-3">
       <rating :value="info.vote_average" class="w-[90px] my-3" />
       <div class="opacity-60">
-        {{ info.vote_average }}
+        {{ formatVote(info.vote_average) }}
       </div>
     </div>
   </div>
