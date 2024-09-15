@@ -49,4 +49,6 @@ export default defineNuxtConfig({
     langDir: "internationalization",
     defaultLocale: "en",
   },
+  ssr:false,
+
 });

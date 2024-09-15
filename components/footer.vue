@@ -1,6 +1,6 @@
 <script></script>
 <template>
-  <div class="px-36 py-10">
+  <div class="px-10 py-10">
     <div class="flex gap-4 mb-5">
       <img src="~/assets/movies-sm.webp" width="25" height="25" alt="Logo" />
       <h1 class="text-xl">Nuxt Movies</h1>
