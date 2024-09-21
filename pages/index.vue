@@ -1,6 +1,6 @@
 <template>
   <div class="bg-[#111111] text-[#fff] overflow-hidden w-full">
-    <heroSection />
+    <heroSection :item="popularMovies[0]" />
     <div class="w-full">
       <div class="w-full px-5 flex justify-between items-center py-10">
         <h1 class="text-3xl">Popular Movies</h1>
