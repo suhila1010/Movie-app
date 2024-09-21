@@ -9,7 +9,7 @@
         class="w-full h-full cursor-pointer"
       />
     </div>
-    <div class="mt-5">
+    <div class="mt-5 max-w-[240px]">
       <h1>{{ info?.title || info?.name }}</h1>
     </div>
     <div class="flex items-center gap-3">
